@@ -31,7 +31,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Sign_language_detector
+  cd tumor_detection_system
 ```
 check t_cv_mobilenet.ipynb for the source code of the model 
 
